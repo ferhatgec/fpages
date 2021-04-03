@@ -1,0 +1,13 @@
+[Title]{ls}
+
+[Description]{dizin listeleyici}
+
+[Usage]{
+ * tum dosyalari listele: <ls -1>
+ * . ile baslayan dosyalari reddetme: <ls -a | ls --all>
+ * . ve .. dizinlerini listeleme: <ls -A | ls --almost-all>  
+ * uzun bicimde listele: <ls -l>
+ * birim icerecek sekilde uzun bicimde listele (kb, mb, gb..): <ls -la>
+ * degistirilme tarihine gore uzun bicimde listele: <ls -ltr> 
+}
+

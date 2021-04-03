@@ -1,0 +1,10 @@
+[Title]{fegeya fpage}
+
+[Description]{yeni nesil renkli sayfalar.}
+
+[Usage]{
+ * fpage ile 'fpage'yi oku: <fpage>
+ * yerel dizinden oku: <fpage --l page>
+ * fpage'nin versiyonunu goster: <fpage --v> 
+}
+

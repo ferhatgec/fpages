@@ -1,0 +1,12 @@
+[Title]{fegeya fpm}
+
+[Description]{yeni nesil paket yoneticisi, derle-yukle-yonet.}
+
+[Usage]{
+ * paketi/leri yukle: <fpm --i paket/ler>
+ * paketi/leri sil: <fpm --uni paket/ler>
+ * paket hakkinda daha fazla bilgi al: <fpm --info paket>
+ * klonla & paketin kaynak kodunu tut: <fpm --k paket>
+ * fpm'in versiyonunu goster: <fpm> 
+}
+

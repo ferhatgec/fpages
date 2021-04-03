@@ -1,0 +1,10 @@
+[Title]{fegeya kalem}
+
+[Description]{C++'a donusturen derleyici.}
+
+[Usage]{
+ * dosyayi derle: <kalem dosya>
+ * c++ kodu olustur: <kalem --cpp dosya>
+ * cikti adini ayarla: <kalem dosya -o=cikti>
+}
+
